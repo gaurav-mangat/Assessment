@@ -11,7 +11,7 @@ def merge_lists_into_dict(keys, values):
 
 l1=[]
 l2=[]
-s=int(input("Define size of lists"))
+s=int(input("Define size of list: "))
 for i in range(0,s):
     a=input("Enter the elements for first list:")
     l1.append(a)
